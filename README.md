@@ -41,10 +41,10 @@ With this app, you can:
 -Android Emulator / Expo Go App
 
 ## How to Run the App
-Make sure the project folder (e.g., The-Christoffel-Menu) is open.
-Install Dependencies
-npm install
-npx expo start 
+-Make sure the project folder (e.g., The-Christoffel-Menu) is open.
+-Install Dependencies
+-npm install
+-npx expo start 
 
 ## Conclusion
 The Christoffel Menu app is a simple yet functional mobile application built with React Native, Expo, and TypeScript. It allows users to navigate between screens to add and view menu items in a clean, user-friendly layout. The project demonstrates an understanding of screen navigation, component design, and responsive styling.
